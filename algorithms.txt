@@ -1,0 +1,25 @@
+BRUSHING YOUR TEETH
+
+1	if you have a toothbrush
+2		pick it up with the bristles facing toward you
+3		put the brushing device on youre teeth
+4		move it back and forth across all of your teeth for three minutes
+5	else
+6		use your finger
+7		go back to line #
+8	remove the brushing device from your mouth
+9	place the brushing device down
+10	rinse out your mouth with water
+11	smile
+
+EAT AN ORANGE
+
+1	find an orange
+2	if you have a knife
+3		score the orange with the knife
+4		place the knife down
+5	else
+6		use your finger to poke a hole in the orange peel
+7	remove the peel
+8	pull apart each section of the orange
+9	eat
